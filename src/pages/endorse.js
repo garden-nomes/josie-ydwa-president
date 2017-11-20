@@ -16,14 +16,21 @@ const Endorse = () => (
           Don't fill this out: <input name="bot-field" />
         </label>
       </p>
+
       <p>
-        <label for="email">Your email</label>
-        <input type="text" name="email" />
+        <label for="name" required>
+          Name
+        </label>
+        <input type="text" name="name" required />
       </p>
+
       <p>
-        <label for="name">Your name</label>
-        <input type="text" name="name" />
+        <label for="title">
+          Former titles with YDWA (if comfortable/applicable)
+        </label>
+        <input type="text" name="title" />
       </p>
+
       <button type="submit">Send</button>
     </form>
   </div>

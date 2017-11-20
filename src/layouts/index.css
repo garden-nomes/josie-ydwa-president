@@ -48,9 +48,23 @@ label {
   margin-bottom: calc(1.45rem / 4);
 }
 
-input[type='text'] {
-  padding: calc(1.45rem / 4);
-  min-width: 20rem;
-  border: 1px solid hsla(0, 0%, 0%, 0.4);
-  border-radius: calc(1.45rem / 8);
+input[type='text'],
+input[type='email'],
+textarea {
+  width: 100%;
+  padding: calc(1.45rem / 4) calc(1.45rem / 2);
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
+
+textarea {
+  resize: vertical;
+}
+
+button {
+  background: #613f75;
+  color: #fff;
+  border-radius: 0.25rem;
+  border: none;
+  padding: calc(1.45rem / 4) calc(1.45rem / 1);
 }
