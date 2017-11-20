@@ -1,13 +1,3 @@
-# gatsby-starter-default
-The default Gatsby starter
+# Josie Ellison for YDWA president
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
-
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+Campaign site for Josie Ellison for Young Democrats of Washington president. Made with [Gatsby](https://gatsbyjs.org) by Noah Weiner.
