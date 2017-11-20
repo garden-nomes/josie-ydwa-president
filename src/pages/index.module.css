@@ -8,3 +8,9 @@
 
   margin: calc(1.45rem / 2);
 }
+
+@media only screen and (max-width: 660px) {
+  .headshot {
+    display: none;
+  }
+}

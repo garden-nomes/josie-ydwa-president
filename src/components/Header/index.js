@@ -1,4 +1,5 @@
 import React from 'react';
+import FontAwesome from 'react-fontawesome';
 import styles from './styles.module.css';
 
 const Header = () => (
@@ -7,7 +8,9 @@ const Header = () => (
       <h1>Josie Ellison</h1>
     </div>
     <div>
-      <h2>YDWA President</h2>
+      <h2>
+        <FontAwesome name="star" />YDWA President<FontAwesome name="star" />
+      </h2>
     </div>
   </header>
 );

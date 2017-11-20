@@ -4,28 +4,31 @@ import FontAwesome from 'react-fontawesome';
 import styles from './styles.module.css';
 
 const NavLink = ({ to, children }) => (
-  <li
+  <Link
     className={window.location.pathname === to ? styles.active : styles.navLink}
+    to={to}
   >
-    <Link to={to}>{children}</Link>
-  </li>
+    {children}
+  </Link>
 );
 
 const ExternalLink = ({ icon, href }) => (
-  <li className={styles.socialMedia}>
-    <a href={href} target="_blank">
-      <FontAwesome name={icon} fixedWidth />
-    </a>
-  </li>
+  <a className={styles.socialMedia} href={href} target="_blank">
+    <FontAwesome name={icon} fixedWidth />
+  </a>
 );
 
 const Nav = () => (
   <ul className={styles.nav} role="navigation">
-    <NavLink to="/">About</NavLink>
-    <NavLink to="/endorsements">Endorsments</NavLink>
+    <li>
+      <NavLink to="/">About</NavLink>
+      <NavLink to="/endorsements">Endorsments</NavLink>
+    </li>
     <li className={styles.spacer} />
-    <ExternalLink icon="envelope" href="#" />
-    <ExternalLink icon="twitter" href="https://twitter.com/josie_ellison" />
+    <li>
+      <ExternalLink icon="envelope" href="mailto:josie.eva@gmail.com" />
+      <ExternalLink icon="twitter" href="https://twitter.com/josie_ellison" />
+    </li>
   </ul>
 );
 

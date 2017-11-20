@@ -3,8 +3,9 @@
   margin-left: 0;
 
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap-reverse;
 
   text-align: center;
 }
@@ -17,15 +18,21 @@
   margin-right: 0;
 }
 
-.navLink a {
+.navLink {
   color: #891b4d;
   text-decoration: none;
   font-weight: 700;
   letter-spacing: 0.04rem;
+
+  margin-right: 1.45rem;
 }
 
-.navLink a:hover,
-.navLink a:active {
+.navLink:last-child {
+  margin-right: 0;
+}
+
+.navLink:hover,
+.navLink:active {
   border-bottom: 2px solid #891b4d;
 }
 
@@ -33,13 +40,13 @@
   composes: navLink;
 }
 
-.active a {
+.active {
   color: inherit;
   border-bottom: 2px solid hsla(0, 0%, 0%, 0.8);
 }
 
-.active a:hover,
-.active a:active {
+.active:hover,
+.active:active {
   border-bottom: 2px solid hsla(0, 0%, 0%, 0.8);
 }
 
@@ -49,13 +56,17 @@
   background: #891b4d;
 }
 
-li.socialMedia {
-  margin-right: calc(1.45rem / 4);
+.socialMedia {
+  margin-right: calc(1.45rem / 2);
+}
+
+.socialMedia:last-child {
+  margin-right: 0;
 }
 
 .socialMedia :global .fa {
-  font-size: 1.5rem;
-  width: calc(1.5rem + 1.45rem);
+  font-size: 1rem;
+  width: calc(1rem + 1.45rem);
   padding: calc(1.45rem / 2);
   text-align: center;
   text-decoration: none;
@@ -65,10 +76,16 @@ li.socialMedia {
   color: white;
 }
 
-.socialMedia .global .fa:hover {
+.socialMedia :global .fa:hover {
   opacity: 0.7;
 }
 
 .socialMedia :global .fa-twitter {
   background: #55acee;
+}
+
+@media only screen and (max-width: 540px) {
+  .spacer {
+    display: none;
+  }
 }

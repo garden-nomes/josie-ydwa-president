@@ -26,7 +26,7 @@ class Parallax extends Component {
     return (
       <div
         className={styles.bg}
-        style={{ backgroundPosition: `8px -${scrollY / 5 - 8}px` }}
+        style={{ backgroundPosition: `8px -${scrollY / 3}px` }}
       />
     );
   }

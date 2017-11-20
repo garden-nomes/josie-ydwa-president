@@ -17,6 +17,10 @@ const TemplateWrapper = ({ children }) => (
           name: 'keywords',
           content:
             'young democrats, washington, wa, josie, ellison, josie ellison, ydwa president'
+        },
+        {
+          name: 'viewport',
+          content: 'width=device-width, initial-scale=1, shrink-to-fit=no'
         }
       ]}
       link={[
@@ -31,7 +35,9 @@ const TemplateWrapper = ({ children }) => (
             'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'
         }
       ]}
-    />
+    >
+      <html lang="en" />
+    </Helmet>
 
     <Parallax />
 
