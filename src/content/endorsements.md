@@ -8,6 +8,7 @@
 * **Maggie Humphreys**
 * **Matt Yoo** Former Vice President of Membership Engagement 
 * **Mike Pond**
+* **Noha Mahgoub**
 * **Nigel Herbig**
 * **Paúl Quiñonez Figueroa** 
 * **Spencer Lively** Vice President for Communications, Former Vice Chair Skagit County Young Democrats 
