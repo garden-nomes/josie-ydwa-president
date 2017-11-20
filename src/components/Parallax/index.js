@@ -4,7 +4,9 @@ import styles from './styles.module.css';
 class Parallax extends Component {
   constructor(props) {
     super(props);
-    this.state = { scrollY: window && window.scrollY ? window.scrollY : 0 };
+    this.state = {
+      scrollY: typeof window === 'undefined' ? 0 : window.scrollY
+    };
     this.onScroll = this.onScroll.bind(this);
   }
 

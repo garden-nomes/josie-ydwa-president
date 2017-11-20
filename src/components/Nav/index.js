@@ -5,7 +5,11 @@ import styles from './styles.module.css';
 
 const NavLink = ({ to, children }) => (
   <Link
-    className={window.location.pathname === to ? styles.active : styles.navLink}
+    className={
+      typeof window !== 'undefined' && window.location.pathname === to
+        ? styles.active
+        : styles.navLink
+    }
     to={to}
   >
     {children}
