@@ -42,3 +42,15 @@ article[role='main'] {
     padding: 1.45rem;
   }
 }
+
+label {
+  display: block;
+  margin-bottom: calc(1.45rem / 4);
+}
+
+input[type='text'] {
+  padding: calc(1.45rem / 4);
+  min-width: 20rem;
+  border: 1px solid hsla(0, 0%, 0%, 0.4);
+  border-radius: calc(1.45rem / 8);
+}
