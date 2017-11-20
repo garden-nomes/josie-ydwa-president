@@ -5,6 +5,8 @@ import Helmet from 'react-helmet';
 import Parallax from '../components/Parallax';
 import Header from '../components/Header';
 import Nav from '../components/Nav';
+import favicon16x16 from './favicon-16x16.png';
+import favicon32x32 from './favicon-32x32.png';
 import './index.css';
 
 const TemplateWrapper = ({ children }) => (
@@ -33,7 +35,9 @@ const TemplateWrapper = ({ children }) => (
           rel: 'stylesheet',
           href:
             'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'
-        }
+        },
+        { rel: 'icon', type: 'image/png', sizes: '32x32', href: favicon32x32 },
+        { rel: 'icon', type: 'image/png', sizes: '16x16', href: favicon16x16 }
       ]}
     >
       <html lang="en" />
