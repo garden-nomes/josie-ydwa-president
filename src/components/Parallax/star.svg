@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  width="calc(1.45rem * 2)"
-  height="calc(1.45rm * 2)"
+  width="45"
+  height="45"
   viewBox="0 0 80 80"
 >
   <g transform="translate(5, 3), rotate(15)">
