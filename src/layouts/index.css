@@ -68,3 +68,8 @@ button {
   border: none;
   padding: calc(1.45rem / 4) calc(1.45rem / 1);
 }
+
+ul li {
+  padding-left: 1.45rem;
+  text-indent: -1.45rem;
+}

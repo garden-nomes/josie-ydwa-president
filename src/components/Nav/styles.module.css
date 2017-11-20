@@ -12,6 +12,8 @@
 
 .nav li {
   margin-right: 1.45rem;
+  padding-left: 0;
+  text-indent: 0;
 }
 
 .nav li:last-child {
