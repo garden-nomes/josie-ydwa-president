@@ -55,7 +55,7 @@ const TemplateWrapper = ({ children }) => (
     </article>
 
     <div className="foot">
-      <span>copyright &copy; 2017 Josie Ellison</span>
+      <span>&copy; 2017 Josie Ellison</span>
     </div>
   </div>
 );
