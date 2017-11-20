@@ -8,12 +8,9 @@
     "gatsby-link": "^1.6.28",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-plugin-typography": "^1.7.10",
-    "gatsby-source-filesystem": "^1.5.8",
-    "gatsby-transformer-remark": "^1.7.21",
     "html-loader": "^0.5.1",
     "markdown-loader": "^2.0.1",
-    "react-fontawesome": "^1.6.1",
-    "remark-loader": "^0.3.0"
+    "react-fontawesome": "^1.6.1"
   },
   "keywords": [
     "gatsby"
