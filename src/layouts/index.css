@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #0099df;
+
+  padding: 1.45rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+article[role='main'] {
+  background: rgba(255, 255, 255, 0.975);
+  border-radius: calc(1.45rem / 8);
+
+  box-shadow: 0px 0px 50px -10px rgba(0, 0, 0, 0.5);
+
+  max-width: 48rem;
+  padding: calc(1.45rem * 2);
+  margin: 0 auto;
+}
+
+.foot {
+  margin-top: 1.45rem;
+  font-size: 0.75rem;
+
+  text-align: center;
+}
+
+.foot span {
+  color: #fff;
+  /*background: #0099df;*/
+  padding: calc(1.45rem / 4);
+}
