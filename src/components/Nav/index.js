@@ -26,7 +26,7 @@ const Nav = () => (
   <ul className={styles.nav} role="navigation">
     <li>
       <NavLink to="/">About</NavLink>
-      <NavLink to="/endorsements">Endorsments</NavLink>
+      <NavLink to="/endorsements">Endorsements</NavLink>
     </li>
     <li className={styles.spacer} />
     <li>
