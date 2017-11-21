@@ -63,7 +63,7 @@ class EndorseForm extends Component {
 
         <p>
           <label for="title">
-            Former titles with the YDWA (if comfortable/applicable)
+            Former titles with the Young Democrats (if comfortable/applicable)
           </label>
           <input type="text" name="title" onChange={this.handleChange} />
         </p>
