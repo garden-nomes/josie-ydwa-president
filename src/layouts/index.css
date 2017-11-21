@@ -11,8 +11,8 @@ body {
 }
 
 article[role='main'] {
-  background: rgba(255, 255, 255, 0.95);
-  border-radius: calc(1.45rem / 8);
+  background: #fff;
+  border-radius: 0.5rem;
 
   box-shadow: 0 0 12px -3px rgba(0, 0, 0, 0.5);
 
@@ -48,13 +48,19 @@ label {
   margin-bottom: calc(1.45rem / 4);
 }
 
-input[type='text'],
-input[type='email'],
-textarea {
+input[type='text'] {
   width: 100%;
   padding: calc(1.45rem / 4) calc(1.45rem / 2);
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
+
+  transition: border-color 150ms ease-in-out;
+}
+
+input[type='text']:focus {
+  border-color: #0099df;
+  outline: 0;
+  box-shadow: 0 0 9px 0 rgba(11, 152, 223, 0.51);
 }
 
 textarea {
