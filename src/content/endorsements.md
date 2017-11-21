@@ -1,12 +1,13 @@
-# Endorsements
-
 * **Andrew Taylor** Former Chair WWU Young Democrats, Former Chair Whatcom County Young Democrats
 * **Angie Weiss**
 * **Ayla Kadah**
+* **Caylyn Rolph-Tate** Former Campaign Director
+* **Courtney Smith**
 * **Elissa Goss** Former Vice President of Government Affairs
 * **Henry Pollet**
 * **Israel Ríos Jr.** Former Vice President of Membership Engagement, Former Chapter Chair Benton-Franklin Young Democrats
 * **Kate Graham**
+* **Katie Dean**
 * **Kurt Price** Western Membership Director, Former Chapter Chair Whatcom County Young Democrats
 * **Maggie Humphreys**
 * **Marc Oommen** Former Vice President of Development, Vice President of Membership Engagement, Western Membership Director, Former Chair 40th LD Democrats, Former Skagit Committeeman
@@ -15,4 +16,5 @@
 * **Noha Mahgoub**
 * **Nigel Herbig**
 * **Paúl Quiñonez Figueroa**
+* **Sarah Kohout** WSDCC Representative, Former Executive Vice President, Former Vice President of Membership Engagement
 * **Spencer Lively** Vice President for Communications, Former Vice Chair Skagit County Young Democrats
