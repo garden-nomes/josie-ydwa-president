@@ -1,5 +1,11 @@
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non molestie mauris. Pellentesque lacinia venenatis nibh, sed cursus nunc venenatis sit amet. Suspendisse scelerisque auctor sapien vehicula scelerisque. Nam feugiat venenatis tortor, quis rutrum ex maximus vel. Vivamus eget mi id ex sollicitudin aliquam. Morbi eu augue nunc. Aliquam erat volutpat. Nam vulputate, orci sed congue elementum, lorem sem volutpat sem, et rhoncus dolor velit quis ante. Duis felis lorem, fermentum ac ligula eget, iaculis maximus metus. Duis vitae turpis nibh. Aliquam non erat magna. Praesent non interdum purus. Vestibulum aliquam consectetur metus at consectetur. Nunc lobortis scelerisque purus quis pretium. Nullam sagittis fringilla ex, et rhoncus justo porttitor et.
+Hey Folks! 
 
-Duis felis lorem, fermentum ac ligula eget, iaculis maximus metus. Duis vitae turpis nibh. Aliquam non erat magna. Praesent non interdum purus. Vestibulum aliquam consectetur metus at consectetur. Nunc lobortis scelerisque purus quis pretium. Nullam sagittis fringilla ex, et rhoncus justo porttitor et.
+I’m incredibly excited to announce that I’m running for President of the Young Democrats of Washington. This organization has played a large role in who I am and I want to ensure that everyone else is given the same opportunities for support and growth that I have found here. We’ve got a while before the 2018 Convention and between now and then I have one big ask for you; let’s talk. I want to hear why you’ve joined the party or why you haven’t, I want to hear what’s kept you around, or what’s pushed you out. I want to build on the work that previous Presidents have started to make this organization and this party everything it has the potential to be. 
+
+I’ll be around the state in the coming months and will be posting on here with ideas, goals, and plans that I have for the organization. 
+
+In solidarity, 
+
+-jo
