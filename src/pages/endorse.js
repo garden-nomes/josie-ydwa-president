@@ -1,8 +1,9 @@
 import React from 'react';
+import endorse from '../content/endorse.md';
 
 const Endorse = () => (
   <div>
-    <h1>Endorse Josie</h1>
+    <div dangerouslySetInnerHTML={{ __html: endorse }} />
 
     <form
       name="endorse"
