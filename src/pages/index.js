@@ -6,7 +6,6 @@ import about from '../content/about.md';
 
 const IndexPage = () => (
   <div>
-    <h1>About</h1>
     <img className={styles.headshot} src={profile} />
     <div dangerouslySetInnerHTML={{ __html: about }} />
   </div>
