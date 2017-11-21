@@ -52,6 +52,7 @@
 .header h2 {
   font-size: 2rem;
   font-weight: 300;
+  width: 430.33px;
 
   display: inline-block;
   padding: calc(1.45rem / 2) 0;

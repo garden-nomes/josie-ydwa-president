@@ -67,6 +67,11 @@ button {
   border-radius: 0.25rem;
   border: none;
   padding: calc(1.45rem / 4) calc(1.45rem / 1);
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
 }
 
 ul li {

@@ -6,9 +6,9 @@ const EndorsementsPage = () => (
   <div>
     <h1>Endorsements</h1>
     <div dangerouslySetInnerHTML={{ __html: endorsements }} />
-    {/* <p>
+    <p>
       <Link to="/endorse">Want to add your name?</Link>
-    </p> */}
+    </p>
   </div>
 );
 
