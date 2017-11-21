@@ -54,13 +54,13 @@ input[type='text'] {
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
 
-  transition: border-color 150ms ease-in-out;
+  transition: border-color 150ms ease-in-out, box-shadow 150ms ease-in-out;
 }
 
 input[type='text']:focus {
-  border-color: #0099df;
+  border-color: #624075;
   outline: 0;
-  box-shadow: 0 0 9px 0 rgba(11, 152, 223, 0.51);
+  box-shadow: 0 0 0.1rem 0.1rem rgba(98, 64, 117, 0.25);
 }
 
 textarea {
