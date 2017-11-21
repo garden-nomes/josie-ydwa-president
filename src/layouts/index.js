@@ -14,6 +14,7 @@ const TemplateWrapper = ({ children }) => (
     <Helmet
       title="Josie Ellison for YDWA President"
       meta={[
+        { charset: 'utf8' },
         { name: 'description', content: 'Josie Ellison for YDWA president.' },
         {
           name: 'keywords',
@@ -23,6 +24,10 @@ const TemplateWrapper = ({ children }) => (
         {
           name: 'viewport',
           content: 'width=device-width, initial-scale=1, shrink-to-fit=no'
+        },
+        {
+          name: 'author',
+          content: 'Noah Weiner'
         }
       ]}
       link={[
