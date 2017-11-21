@@ -1,10 +1,11 @@
+* **Andrew Taylor** Former Chair WWU Young Democrats, Former Chair Whatcom County Young Democrats
 * **Angie Weiss**
 * **Ayla Kadah**
 * **Elissa Goss** Former Vice President of Government Affairs
 * **Henry Pollet**
 * **Israel Ríos Jr.** Former Vice President of Membership Engagement, Former Chapter Chair Benton-Franklin Young Democrats
 * **Kate Graham**
-* **Kurt Price** Western Membership Director, Chapter Chair Whatcom County Young Democrats
+* **Kurt Price** Western Membership Director, Former Chapter Chair Whatcom County Young Democrats
 * **Maggie Humphreys**
 * **Marc Oommen** Former Vice President of Development, Vice President of Membership Engagement, Western Membership Director, Former Chair 40th LD Democrats, Former Skagit Committeeman
 * **Matt Yoo** Former Vice President of Membership Engagement
