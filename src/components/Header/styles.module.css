@@ -109,6 +109,7 @@
 
   .header h2 {
     font-size: 1rem;
+    width: 292.47px;
   }
 
   .header h2 :global .fa {
