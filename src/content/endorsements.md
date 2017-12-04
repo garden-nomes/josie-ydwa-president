@@ -25,3 +25,4 @@
 * **Sarah Kohout** WSDCC Representative, Former Executive Vice President, Former Vice President of Membership Engagement
 * **Spencer Lively** Vice President for Communications, Former Vice Chair Skagit County Young Democrats
 * **Tyler Bieber** Former Development Director 
+* **Zack Turner** Chapter Chair Snohomish County Young Democrats 
