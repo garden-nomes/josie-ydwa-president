@@ -1,6 +1,7 @@
 ---
 title: "Hey Folks!"
 date: "2017-11-21"
+published: true
 ---
 
 I’m incredibly excited to announce that I’m running for President of the Young Democrats of Washington. This organization has played a large role in who I am and I want to ensure that everyone else is given the same opportunities for support and growth that I have found here.
