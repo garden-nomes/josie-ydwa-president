@@ -35,7 +35,7 @@
 
 .navLink:hover,
 .navLink:active {
-  border-bottom: 0.08rem solid #891b4d;
+  color: rgba(0, 0, 0, 0.8);
 }
 
 .active {
@@ -44,12 +44,6 @@
 
 .active {
   color: inherit;
-  border-bottom: 0.08rem solid hsla(0, 0%, 0%, 0.8);
-}
-
-.active:hover,
-.active:active {
-  border-bottom: 0.08rem solid hsla(0, 0%, 0%, 0.8);
 }
 
 .spacer {
