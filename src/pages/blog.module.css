@@ -1,0 +1,30 @@
+.postHeading {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+a.post {
+  text-decoration: none;
+  color: inherit;
+}
+
+.post:hover h2 {
+  color: #000;
+}
+
+.post:hover .postHeadingDate {
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.postHeadingDate {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 1rem;
+
+  margin-top: -1.45rem;
+  margin-bottom: 1.45rem;
+}
+
+.postHeadingDate::before {
+  content: ' — ';
+}

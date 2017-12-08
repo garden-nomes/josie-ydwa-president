@@ -1,0 +1,22 @@
+.subtitle {
+  margin-top: -1.45rem;
+  margin-bottom: 1.45rem;
+
+  display: flex;
+}
+
+.subtitleItem::after {
+  content: '|';
+  margin-left: calc(1.45rem / 4);
+  margin-right: calc(1.45rem / 4);
+}
+
+.subtitleItem:last-child::after {
+  content: none;
+}
+
+.date {
+  composes: subtitleItem;
+  font-weight: bold;
+  color: #777;
+}
