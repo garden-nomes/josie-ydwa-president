@@ -52,11 +52,7 @@ const TemplateWrapper = ({ children }) => (
 
     <Header />
     <article role="main">
-      <Nav />
-
-      {children()}
-
-      <ul className="social-media-icons" />
+      <Nav>{children()}</Nav>
     </article>
 
     <div className="foot">
