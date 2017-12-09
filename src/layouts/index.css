@@ -10,6 +10,53 @@ body {
   box-sizing: border-box;
 }
 
+hr {
+  height: 1px;
+  background: #891b4d;
+}
+
+blockquote {
+  font-family: 'Signika', sans-serif;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: calc(2 * 1.45rem);
+  padding-right: calc(2 * 1.45rem);
+  position: relative;
+}
+
+blockquote cite {
+  display: block;
+  text-align: right;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+blockquote cite::before {
+  content: '— ';
+}
+
+blockquote::before,
+blockquote::after {
+  color: #891b4d;
+  opacity: 0.8;
+  font-weight: 700;
+  font-size: 4rem;
+
+  position: absolute;
+}
+
+blockquote::before {
+  content: '“';
+  left: 0;
+  top: 1.25rem;
+}
+
+blockquote::after {
+  content: '”';
+  right: 0;
+  bottom: -1.25rem;
+}
+
 article[role='main'] {
   background: #fff;
   border-radius: 0.5rem;
