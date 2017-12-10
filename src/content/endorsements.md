@@ -6,6 +6,7 @@
 * **Caylyn Rolph-Tate** Former Campaign Director
 * **Courtney Smith**
 * **Elissa Goss** Former Vice President of Government Affairs
+* **Emma Palumbo** 
 * **Henry Pollet**
 * **Israel Ríos Jr.** Former Vice President of Membership Engagement, Former Chapter Chair Benton-Franklin Young Democrats
 * **Jake Garcia** Former YDCC Endorsements Committee Chair, Former YDCC Outreach Committee Chair
