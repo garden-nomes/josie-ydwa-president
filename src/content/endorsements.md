@@ -1,6 +1,8 @@
+* **Alex Arriaga** Chair Whatcom County Young Democrats
 * **Andrew Taylor** Former Chair WWU Young Democrats, Former Chair Whatcom County Young Democrats
 * **Angie Weiss**
 * **Ayla Kadah**
+* **Betsy Walker** Former Chair King County Young Democrats, Former Technology Director
 * **Bridget Williams**
 * **Cinthia Illan-Vazquez**
 * **Caylyn Rolph-Tate** Former Campaign Director
