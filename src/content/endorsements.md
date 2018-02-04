@@ -28,6 +28,7 @@
 * **Noha Mahgoub**
 * **Nigel Herbig**
 * **Paúl Quiñonez Figueroa**
+* **Rosa Rice-Pelepko**
 * **Sarah Kohout** WSDCC Representative, Former Executive Vice President, Former Vice President of Membership Engagement
 * **Spencer Lively** Vice President for Communications, Former Vice Chair Skagit County Young Democrats
 * **Taemin Um**
