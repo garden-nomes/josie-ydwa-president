@@ -12,10 +12,11 @@
 * **Henry Pollet**
 * **Israel Ríos Jr.** Former Vice President of Membership Engagement, Former Chapter Chair Benton-Franklin Young Democrats
 * **Jake Garcia** Former YDCC Endorsements Committee Chair, Former YDCC Outreach Committee Chair
-* **Jin-Ah Kim**
+* **Jin-Ah Kim** 
 * **Kacie Masten**
 * **Kamau Chege** 
 * **Kate Graham**
+* **Kate Burke**
 * **Katie Crombie** Former Campaign Director, Former Vice Chair of YDCC, Former Women’s Caucus Vice Chair
 * **Katie Dean**
 * **Kurt Price** Western Membership Director, Former Chapter Chair Whatcom County Young Democrats
