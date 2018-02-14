@@ -12,6 +12,7 @@
 * **Henry Pollet**
 * **Israel Ríos Jr.** Former Vice President of Membership Engagement, Former Chapter Chair Benton-Franklin Young Democrats
 * **Jake Garcia** Former YDCC Endorsements Committee Chair, Former YDCC Outreach Committee Chair
+* **Josh Maasberg** Vice Chair Young Democrats of Washington State University
 * **Jin-Ah Kim** 
 * **Kacie Masten**
 * **Kamau Chege** 
